@@ -16,7 +16,7 @@ public class PagamentosDAO {
 
     String enderecoBD = "jdbc:mariadb://localhost:3306/ubeer";
     String userBD = "root";
-    String senhaBD = "univille";
+    String senhaBD = "root";
 
 
     ValidaPagamento validador = new ValidaPagamento();

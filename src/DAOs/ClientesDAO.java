@@ -18,7 +18,7 @@ public class ClientesDAO {
 
     String enderecoBD = "jdbc:mariadb://localhost:3306/ubeer";
     String userBD = "root";
-    String senhaBD = "univille";
+    String senhaBD = "root";
 
 
 
